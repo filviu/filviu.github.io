@@ -3,15 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.silviuvulcan.ro/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://www.silviuvulcan.ro/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>https://www.silviuvulcan.ro/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
