@@ -1,9 +1,11 @@
-baseurl = "https://www.silviuvulcan.ro/"
+#baseurl = "https://www.silviuvulcan.ro/"
 languageCode = "en-US"
 title = "Silviu Vulcan"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 theme = "hugo-sustain"
+
+canonifyurls = false
 
 [permalinks]
   post = "/:year/:month/:day/:slug"
