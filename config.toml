@@ -22,12 +22,12 @@ canonifyurls = false
 [params.social]
   Github        = "silviuvulcan"
 #  Email         = "email@example.com"
-  Twitter       = "silviuvulcan"
+#  Twitter       = "silviuvulcan"
   LinkedIn      = "silviuvulcan"
 #  Stackoverflow = "username"
 #  Medium        = "username"
 #  Telegram      = "username"
-  Instagram     = "silviu.vulcan"
+#  Instagram     = "silviu.vulcan"
 
 ## Main Menu
 #[[menu.main]]
