@@ -1,0 +1,47 @@
+#baseurl = "https://www.silviuvulcan.ro/"
+languageCode = "en-US"
+title = "Silviu Vulcan"
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+theme = "hugo-sustain"
+
+canonifyurls = false
+
+[permalinks]
+  post = "/:year/:month/:day/:slug"
+
+[params]
+  avatar = "profile.png"
+  author = "Silviu Vulcan"
+  description = "I’m a sysadmin / devops engineer by day and amateur photographer, tech and open source enthusiast in my spare time."
+
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = []
+  custom_js  = []
+
+[params.social]
+  Github        = "silviuvulcan"
+#  Email         = "email@example.com"
+#  Twitter       = "silviuvulcan"
+  LinkedIn      = "silviuvulcan"
+#  Stackoverflow = "username"
+#  Medium        = "username"
+#  Telegram      = "username"
+#  Instagram     = "silviu.vulcan"
+
+## Main Menu
+#[[menu.main]]
+#  name = "blog"
+#  weight = 100
+#  identifier = "blog"
+#  url = "/blog/"
+#[[menu.main]]
+#  name = "projects"
+#  identifier = "projects"
+#  weight = 200
+#  url = "/projects/"
+#[[menu.main]]
+#  name = "resume"
+#  identifier = "resume"
+#  weight = 300
+#  url = "/resume/"
