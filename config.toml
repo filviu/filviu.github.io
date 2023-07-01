@@ -1,4 +1,4 @@
-#baseurl = "https://www.silviuvulcan.ro/"
+baseurl = "https://www.silviuvulcan.ro/"
 languageCode = "en-US"
 title = "Silviu Vulcan"
 # Enable Google Analytics by entering your tracking code
@@ -20,7 +20,7 @@ canonifyurls = false
   custom_js  = []
 
 [params.social]
-  Github        = "silviuvulcan"
+  Github        = "filviu"
 #  Email         = "email@example.com"
 #  Twitter       = "silviuvulcan"
   LinkedIn      = "silviuvulcan"
@@ -30,11 +30,11 @@ canonifyurls = false
 #  Instagram     = "silviu.vulcan"
 
 ## Main Menu
-#[[menu.main]]
-#  name = "blog"
-#  weight = 100
-#  identifier = "blog"
-#  url = "/blog/"
+[[menu.main]]
+  name = "blog"
+  weight = 100
+  identifier = "blog"
+  url = "/blog/"
 #[[menu.main]]
 #  name = "projects"
 #  identifier = "projects"
