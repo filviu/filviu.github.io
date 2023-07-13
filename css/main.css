@@ -146,10 +146,17 @@ html, body {
   padding: 5px;
   padding-top: 0;
   text-align: center;
+  -moz-transition: opacity .3s ease-in;
+  -o-transition: opacity .3s ease-in;
+  -webkit-transition: opacity .3s ease-in;
+  transition: opacity .3s ease-in;
+}
+.social-links li:hover {
+  opacity: .8;
 }
 .social-links li a {
   font-size: 20px;
-  color: #000;
+  color: #1a5fb4;
   padding: 10px;
   padding-bottom: 4px;
   transition: all .4s ease;
