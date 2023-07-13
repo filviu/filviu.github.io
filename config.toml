@@ -1,4 +1,4 @@
-baseurl = "https://www.silviuvulcan.ro/"
+baseurl = "https://silviuvulcan.ro/"
 languageCode = "en-US"
 title = "Silviu Vulcan"
 # Enable Google Analytics by entering your tracking code
@@ -11,7 +11,7 @@ canonifyurls = false
   post = "/:year/:month/:day/:slug"
 
 [params]
-  avatar = "profile.png"
+  avatar = "img/profile.png"
   author = "Silviu Vulcan"
   description = "I’m a sysadmin / devops engineer by day and amateur photographer, tech and open source enthusiast in my spare time."
 
@@ -21,9 +21,12 @@ canonifyurls = false
 
 [params.social]
   Github        = "filviu"
+  LinkedIn      = "silviuvulcan"
+  RSS           = "https://silviuvulcan.ro/blog/index.xml"
+  Mastodon      = "@filviu@fosstodon.org"
+  blog          = "https://silviuvulcan.ro/blog/"
 #  Email         = "email@example.com"
 #  Twitter       = "silviuvulcan"
-  LinkedIn      = "silviuvulcan"
 #  Stackoverflow = "username"
 #  Medium        = "username"
 #  Telegram      = "username"
