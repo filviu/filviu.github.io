@@ -45,39 +45,7 @@ _merge = "none"
     # See https://toml.io/en/v1.0.0 for details
 #    0 = { name = "ello", icon = "ello", style = "fab", link = "" } # empty links are possible
 
-<<<<<<< HEAD
     0 = { name = "Blog", icon = "blog", style = "fas", link = "https://silviuvulcan.ro/blog" }
     1 = { name = "GitHub", icon = "github", style = "fab", link = "https://github.com/filviu/" }
     2 = { name = "fosstodon.org", icon = "mastodon", style = "fab", link = "https://fosstodon.org/@filviu", rel-me = true }
 #    3 = { name = "mastodon.social", icon = "mastodon", style = "fab", link = "https://mastodon.social/@filviu", rel-me = true }
-=======
-[params.social]
-  Github        = "filviu"
-  LinkedIn      = "silviuvulcan"
-  RSS           = "https://silviuvulcan.ro/blog/index.xml"
-  Mastodon      = "@filviu@mastodon.social"
-  blog          = "https://silviuvulcan.ro/blog/"
-#  Email         = "email@example.com"
-#  Twitter       = "silviuvulcan"
-#  Stackoverflow = "username"
-#  Medium        = "username"
-#  Telegram      = "username"
-#  Instagram     = "silviu.vulcan"
-
-## Main Menu
-[[menu.main]]
-  name = "blog"
-  weight = 100
-  identifier = "blog"
-  url = "/blog/"
-#[[menu.main]]
-#  name = "projects"
-#  identifier = "projects"
-#  weight = 200
-#  url = "/projects/"
-#[[menu.main]]
-#  name = "resume"
-#  identifier = "resume"
-#  weight = 300
-#  url = "/resume/"
->>>>>>> 91ae39f974af5542976c168488337a6320b20bda
